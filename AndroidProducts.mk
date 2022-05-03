@@ -1,0 +1,1 @@
+PRODUCT_MAKEFILES += $(LOCAL_DIR)/corvus_a40.mk
